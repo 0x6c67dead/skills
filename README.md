@@ -10,6 +10,7 @@ Padrões e inspiração adaptados de [mattpocock/skills](https://github.com/matt
 | --- | --- | --- |
 | [grill-me](skills/grill-me/SKILL.md) | Entrevista implacável em rodadas que afia decisões de arquitetura e regras de negócio antes do código ser escrito. Dispara sozinha nos momentos decisivos; stateless, sinaliza ADR no fim. | Automática (model-invoked) |
 | [rfc](skills/rfc/SKILL.md) | Escreve, revisa adversarialmente e evolui RFCs antes de designs não triviais — proposta com alternativas descartadas, veredito binário, extração de ADRs e disciplina de status (`draft/accepted/rejected/superseded`). | Automática (model-invoked) |
+| [learn](skills/learn/SKILL.md) | Sessão completa de ensino técnico que amplia conhecimento sobre qualquer assunto de tecnologia: recall espaçado na entrada, calibração, deep dive por primeiros princípios (deriva o conceito das primitivas, ex. containers via cgroups/namespaces), quiz de recall e cheatsheet persistente. Perfil leve portátil em `$LEARNING_HOME` (default `~/Projetos-pessoais/learning`); tema recorrente promove a workspace completo. | Automática (model-invoked) |
 
 ## Instalação
 
